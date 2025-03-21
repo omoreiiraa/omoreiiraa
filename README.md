@@ -18,6 +18,7 @@
 ### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omoreiiraa&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omoreiiraa&layout=compact&theme=radical) 
 
 ##
 
